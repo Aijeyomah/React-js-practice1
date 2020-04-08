@@ -1,0 +1,11 @@
+.Search {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+}
+
+.Search:focus{
+    background-color: #aaa;
+}

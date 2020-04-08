@@ -1,0 +1,16 @@
+
+    button{
+        padding: 15px;
+        background-color:  tomato;
+        border-radius: 5px;
+       width: 120px;
+        color: #fff;
+        font-size: 15px;
+    }
+
+    button:hover{
+        background-color: 2px solid  tomato;
+    }
+
+
+

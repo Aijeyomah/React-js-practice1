@@ -1,0 +1,39 @@
+.wrapper{
+    width: 100vw;
+    height: 100px;
+    background-color: #009879;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 20px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color: tomato;
+    transition: .2s;
+}
+
+.logo{
+    font-weight: bold; 
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: #fff;
+}
+
+.right{
+    margin-right: 20px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,14 @@
+.form_input{
+    border-bottom: 1px solid teal;
+    border-left: 1px solid teal;
+    border-right: 1px solid teal;
+    border-top: none;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    outline: none;
+    padding: 2px 5px;
+}
+
+.form_input_wrap{
+    padding: 15px 0;
+}
